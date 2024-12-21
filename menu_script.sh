@@ -8,7 +8,7 @@ echo 3=Show username
 read choice 
 
 case $choice in 
-	1)date;)
+	1)date;;
 	2)ls -ltr;;
 	3)whoami;;
 	*) echo Invalid input 
