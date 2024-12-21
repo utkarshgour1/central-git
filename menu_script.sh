@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo Press the any option
+ech Press the any option
 echo 1=Show me the Date
 echo 2=List files in current directory
 echo 3=Show username 
